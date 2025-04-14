@@ -1,7 +1,6 @@
 # mint-backgrounds-rosa
 
 ![AUR version](https://img.shields.io/aur/version/mint-backgrounds-rosa?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/mint-backgrounds-rosa-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/mint-backgrounds-rosa-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/mint-backgrounds-rosa)
 
 This repository contains build files to build the Arch Linux package `mint-backgrounds-rosa`. Instead of building the
